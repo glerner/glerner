@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George Lerner @glerner
 - 👀 I’m interested in WordPress hosting and development for WordPress and WooCommerce, for small businesses.
-- 🌱 I’m currently learning page speed improvements, theme.json, Elementor, Google Analytics and Search Console.
+- 🌱 I’m currently learning Full Site Editing theme development, page speed improvements, Elementor, Google Analytics and Search Console.
 - 💞️ I’m looking to collaborate on improving WordPress speed, identifying slow plugins.
 - 📫 How to reach me lernerconsult@gmail.com
 
