@@ -35,9 +35,9 @@ ensuring your digital presence isn't just functional — it's transformative.
 - 💞️ I’m looking to collaborate on improving WordPress speed, identifying slow plugins.
 - 📫 How to reach me wpwm@wp-website-mastery.com
 
-https://wp-website-mastery.com
-https://website-tech.glerner.com/
-https://molten-salt-reactor.glerner.com/
+- https://wp-website-mastery.com
+- https://website-tech.glerner.com/
+- https://molten-salt-reactor.glerner.com/
 
 <!---
 glerner/glerner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
